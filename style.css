@@ -1,0 +1,60 @@
+.col-4
+{
+    font-size: small;
+}
+.table
+{
+    font-size: small;
+}
+.col-8
+{
+    padding-left: 100px;
+}
+#title
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#title2
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+body{
+    background-color: lightgrey;
+}
+#maleR
+{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#femaleR
+{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#choice1
+{
+    padding-left: 10px;
+}
+#choice2
+{
+    padding-left: 10px;
+}
+#choice3
+{
+    padding-left: 10px;
+}
+#choice4
+{
+    padding-left: 10px;
+}
+#choice5
+{
+    padding-left: 10px;
+}
+span
+{
+    color:red;
+    font-size: large;
+}
